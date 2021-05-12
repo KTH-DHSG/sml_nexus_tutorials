@@ -31,13 +31,13 @@ Download the required SML Nexus packages from Github to your workspace source di
 
 ```
 cd <your_workspace>/src
-git clone https://github.com/KTH-SML/sml_nexus.git
-git clone https://github.com/KTH-SML/sml_nexus_simulator.git
-git clone https://github.com/KTH-SML/motion_capture_simulator.git
+git clone https://github.com/KTH-DHSG/sml_nexus.git
+git clone https://github.com/KTH-DHSG/sml_nexus_simulator.git
+git clone https://github.com/KTH-DHSG/motion_capture_simulator.git
 ```
 And the current tutorial package:
 
-`git clone https://github.com/KTH-SML/sml_nexus_tutorials.git`
+`git clone https://github.com/KTH-DHSG/sml_nexus_tutorials.git`
 
 Build the packages using either "catkin_make" or "catkin build"
 
